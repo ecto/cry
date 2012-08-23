@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/ecto/cry.png)](http://travis-ci.org/ecto/cry)
 # cry
 
 ![cry](http://i.imgur.com/E87CE.jpg)
