@@ -13,5 +13,7 @@ var method = process.argv[2],
 try {
   var out = crypto.createHash(method).update(string).digest('hex');
   console.log(out);
-} catch (e) {}
+} catch (e) {
+  console.error('😭');
+}
 
