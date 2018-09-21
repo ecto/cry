@@ -14,6 +14,6 @@ try {
   var out = crypto.createHash(method).update(string).digest('hex');
   console.log(out);
 } catch (e) {
-  console.error(😭);
+  console.error('😭');
 }
 
